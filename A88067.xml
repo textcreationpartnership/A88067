@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Levellers institutions for a good people, and a good Parliament, according to this their present declaration, and the gallant rights and Christian priviledges of this nation. Together with their summons to all gallant common souldiers serving under the Excellent Fairfax, and faithful Cromwell, to stand to their colours.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88067</idno>
+            <idno type="STC">Wing L1801</idno>
+            <idno type="STC">Thomason E474_4</idno>
+            <idno type="STC">ESTC R205355</idno>
+            <idno type="EEBO-CITATION">99864758</idno>
+            <idno type="PROQUEST">99864758</idno>
+            <idno type="VID">162457</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88067)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162457)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E474[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Levellers institutions for a good people, and a good Parliament, according to this their present declaration, and the gallant rights and Christian priviledges of this nation. Together with their summons to all gallant common souldiers serving under the Excellent Fairfax, and faithful Cromwell, to stand to their colours.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the yeer MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire -- Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: "Nou: 30".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Satire, English --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162457:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 102 -->
+            <p>The LEVELLERS INSTITVTIONS FOR A GOOD PEOPLE, AND A GOOD PARLIAMENT, According to this their preſent De<g ref="char:EOLhyphen"/>claration, and the Gallant Rights and Chriſtian Priviledges of this NATION.</p>
+            <p>Together with their <hi>Summons</hi> to all gallant common Souldiers ſerving under the Excellent FAIRFAX, and faithful CROMWELL, to ſtand to their Colours.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>W. B.</hi> in the Yeer MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162457:2"/>
+            <!-- PDF PAGE 103 -->
+            <pb n="3" facs="tcp:162457:2"/>
+            <!-- PDF PAGE 103 -->
+            <head>The Levellers Inſtitutions for a good People, and a good Parliament, <hi>&amp;c.</hi> The firſt Inſtitution.</head>
+            <p>TO all true cordial Engliſh Souls, inhabitant or diſperſed through <hi>Europe, Aſia, Affrica</hi> and <hi>Ameri<g ref="char:EOLhyphen"/>ca;</hi> To Jew and Gentile, Free<g ref="char:EOLhyphen"/>born and Slave, to whom theſe our <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſtituti<g ref="char:EOLhyphen"/>ons ſhall come, Greeting. Be it by theſe Preſents made known, publiſhed and decla<g ref="char:EOLhyphen"/>red, That We, the legitimate Princes of the Earth, <hi>Juſtice, Freedom,</hi> and <hi>Honeſty,</hi> having for a time, times, and half a time, by the Ty<g ref="char:EOLhyphen"/>ranny of unjuſt Monarchs and Arbitrary Lords, been forcibly exiled, and from our Native Rights debarred; are now, at the time of the end, come down into the World to chaſtiſe Injuſtice, to ſettle Peace, and to re<g ref="char:EOLhyphen"/>aſſume the Scepter in our own hands, as our proper due, againſt Emperors, Kings, Ar<g ref="char:EOLhyphen"/>mies,
+<pb n="4" facs="tcp:162457:3"/>
+               <!-- PDF PAGE 104 -->
+Councels, mauger Men and Divels; Commanding all other Princes to lay down their Scepters at our feet, and Greatneſſe to come under the command of Goodneſs: for this is the firſt Fundamental Right of the <hi>Sea-Green Order.</hi>
+            </p>
+            <p>Secondly, Be it next declared, That We intend to advance our Royal Standard, firſt in <hi>England,</hi> this preſent yeer of King <hi>Jeſus</hi> 1648: and this by Commiſſion from God our King, and the Parliament of Hea<g ref="char:EOLhyphen"/>ven, unalterably, uncontroulably; and have for that purpoſe made choice of the deep <hi>Sea-green</hi> for our Flag and Colours, and do hereby ordain and authorize it to be worn as the lively badge of Conſtancy, Suffer<g ref="char:EOLhyphen"/>ance and Valour in grain, the cognizance of Juſtice, and the mark of Freedom and Deliverance.</p>
+            <p>Thirdly, Be it by us ordered, That whatſoever noble heart ſhall abhor the yoak of Prerogative-pleaſure, the Chains of Sla<g ref="char:EOLhyphen"/>very and Tyranny by Princes, the Agents and cruel Inſtruments of Princes: Whoſo<g ref="char:EOLhyphen"/>ever ſhall deteſt the Arbitrary Power and
+<pb n="5" facs="tcp:162457:3"/>
+               <!-- PDF PAGE 104 -->
+Voice Negative: Whoſoever ſhall abomi<g ref="char:EOLhyphen"/>nare the ſelf-wil'd pomp and dominion of Lords temporal and ſpiritual, the jugling of bribed Judges, the deviliſh inextriable mares of the Law-Courts, and their petty-fogging ſitting Dogs, (Pleaders, Officers of Court, Attorneys, Solicitors, perjured Sergeants, Bayliffs, Underſheriffs) with all their quirks, demurs, and quillets: Whoſoever is ſeeing and ſenſible of the late bloody Plots, and ſtill raging deſigns of Antichriſtian Chriſti<g ref="char:EOLhyphen"/>ans: Whoſoever groans under the preſent Extortions, unequal Taxes, unjuſt Levies, inevitable Monopolies, new Charters, Plun<g ref="char:EOLhyphen"/>ders and avarice of Committees, bondage of Priſon under inhumane Gaolers, oppreſ<g ref="char:EOLhyphen"/>ſion of Landlords, all Wardſhips, all Hard<g ref="char:EOLhyphen"/>ſhip<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; Let them upon ſight hereof, take up the Croſs, and follow Chriſt their King; take up our Colours, and follow us their Leaders; and in ſo doing, the <hi>Sea-green</hi> ſhall be the badg of their warrant and pro<g ref="char:EOLhyphen"/>tection.</p>
+            <p>Fourthly, be it hereby inſtituted, That
+<pb n="6" facs="tcp:162457:4"/>
+               <!-- PDF PAGE 105 -->
+every one ſo wearing our Colours in hat<g ref="char:EOLhyphen"/>band, cuff, garment, hilt, bridle, mayn, or ſail, in relation to Equity, Freedom and Honeſty ſhall from henceforth, according to our noble Order, be intitled the Freeborn Aſsiſtant of Juſtice, (but according to the Order of King <hi>Charles,</hi> Levellers) his is new, ours is old.</p>
+            <p>Fifthly, be it further inſtituted, That eve<g ref="char:EOLhyphen"/>ry Champion of the <hi>Sea-green Order</hi> ſhall vow a ſacred vow, in all his prayers and en<g ref="char:EOLhyphen"/>devors, to level firſt the mountain of his own hart, pride, ambition, avarice, ſelf-hopes, ſelf-ends, ſelf-revenge; for this is the true level of the internall Antichriſt.</p>
+            <p>Sixthly, it is decreed, That every ſuch Aſsiſtant of Juſtice, ſhall fearleſly reſolve, promiſe &amp; aſſent to his utmoſt power, to le<g ref="char:EOLhyphen"/>vel to the earth all the unequal knobbineſs—and uneven riſings—of injuſtice, pomp, ty<g ref="char:EOLhyphen"/>ranny and oppreſsion, as the very cauſes of this War, and things abominated in the eyes of an angry God, Saints and Angels; be it in Prince, Peer, Prelate, Judg, Magiſtrate, and
+<pb n="7" facs="tcp:162457:4"/>
+               <!-- PDF PAGE 105 -->
+that without difference or exception of per<g ref="char:EOLhyphen"/>ſons, parties, Religions, relations, titles, dig<g ref="char:EOLhyphen"/>nities, indifferently and indiſtinctly; for this is the Level of the external Antichriſt: So help him Chriſt, and the three <hi>Machabean Princes.</hi>
+            </p>
+            <p>Next, it is hereby concluded, That Ho<g ref="char:EOLhyphen"/>neſty among the Levellers ſhall be counted for the beſt Policy, and Simplicity ſhall bear up the Buckler againſt a whole Junto of Machavil, and politicks Woodbee.</p>
+            <p>Be it alſo hereby known to all the gallant common Souldiers, ſerving under the excel<g ref="char:EOLhyphen"/>lent <hi>Fairfax,</hi> and faithfull <hi>Crumwell,</hi> That however their Grandee-Maſters have ill re<g ref="char:EOLhyphen"/>paid their labors, yet we their Captains have from time to time carefully inrolled their valor, ſufferings, ſcorns, nakedneſs, and loſſes in the Regiſter of Equity, man by man; and do by theſe preſents ingage our Honors for a full requital, far above Indemp<g ref="char:EOLhyphen"/>nity, with money, bays, and thanks, accor<g ref="char:EOLhyphen"/>ding to the degrees of each mans deſert in War; provided that the ſaid Souldier go on
+<pb n="8" facs="tcp:162457:5"/>
+               <!-- PDF PAGE 106 -->
+as he hath begun, ſtand to our Colours, and appear at our Summons, according to the Rights of the <hi>SEA GREEN ORDER.</hi>
+            </p>
+            <p>Laſtly, be it enacted and Declared, That whoſoever ſhall jeer, baffle, or vilifie our Colours, or reproach the Wearer—ſhall be cenſured an Anti Leveller, a Malignant Revolter, Grandee Creature, or Dammee Varlet, and to be regiſtred by the <hi>SEA-GREEN Scout,</hi> in the Roll of Juſtice and Revenge; but whoever ſhall conſtantly and habitually affect us, and our Colours, ſhall be admitted into our favor, whether gallant Cavalier, or valiant Reformadoe.</p>
+            <closer>
+               <signed>Signed by Captain <hi>Mordocai Love-Right,</hi>Secretary-General to the three <hi>Machabean Princes,</hi> and the noble State of <hi>Levellers.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
